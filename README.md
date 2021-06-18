@@ -25,5 +25,18 @@ Pour ce projet, nous avons utilié les composants suivant :
 ## Cabling
 ![alt text](https://user-images.githubusercontent.com/39302218/122564147-9d14be00-d077-11eb-85da-636b5e3bd09a.png)
 
+
+## 3D Design
+
+- Controller
+![alt text](https://user-images.githubusercontent.com/39302218/122567437-3d201680-d07b-11eb-8cac-9f459616ce12.png)
+
+- Composant
+![alt text](https://user-images.githubusercontent.com/39302218/122567456-44472480-d07b-11eb-95db-917702ce0b15.png)
+
+- Bateau
+![alt text](https://user-images.githubusercontent.com/39302218/122567483-4ad59c00-d07b-11eb-9cdb-d1a52d25bdf9.png)
+
+
 ## Tinkercad link
 * https://www.tinkercad.com/things/1f0LiAWsC5w
