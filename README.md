@@ -1,6 +1,14 @@
 # Projet-LotM
 
+## Authors
+- Dixuan Lin
+- Khouloud GHORBEL
+- Guillaume AMORTILA
+- Ines IHOULINE
+
 ## Introduction
+
+
 
 ## Hardware
 ![alt text](https://user-images.githubusercontent.com/39302218/122563546-e9133300-d076-11eb-8963-6ad2d6bd43cc.png)
