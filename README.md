@@ -12,7 +12,7 @@ Vous retrouverez dans ce dossier le code qui est dans un fichier .ino qui est ex
 Dans le cadre de notre projet, nous avons voulu crée un capteur connecter qui permet d'avoir en temps réelle l'état de la profondeur de l'eau afin d'adapter notre chemin en bateau. 
 
 Vous pouvez avoir plus d'information dans le drive suivant : 
-https://drive.google.com/drive/folders/1tEONKQ2zkQ-GAkkuTNZUyj-39lfmm8i7?usp=sharing "
+- https://drive.google.com/drive/folders/1tEONKQ2zkQ-GAkkuTNZUyj-39lfmm8i7?usp=sharing "
 
 
 ## Hardware
